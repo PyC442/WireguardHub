@@ -1,0 +1,21 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+}
+
+.flex-top {
+	display: flex;
+	height: 100%;
+	align-items: center;
+	justify-content: center;
+}
+
+.flex-top > div {
+	border: 5px solid black;
+	width: 25%;
+	text-align: center;
+}
+
